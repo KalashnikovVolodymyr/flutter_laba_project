@@ -6,11 +6,7 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Додаток для обліку сімейного бюджету з використанням api Monobank. Є ідея використовувати єдину картку Монобанка між декількома членами сімї. Я цікавився що такого функціоналу немає у багатьох банках і у Моно також. Тобто якщо додати одну картку Моно до GPay чи APay  - то з неї можна платити з декількох пристроїв - це працює я перевірив. А додаток буде збираті по апи транзакції та групуваті їх по категоріях витрат. Непогано було б з повідомленнями зробити щоб на усіх клієнтах був push по транзакції. Також буде вигляд у круговій діаграмі по частинам витрат.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Схема екранів проєкту:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
