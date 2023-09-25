@@ -10,3 +10,4 @@ This project is a starting point for a Flutter application.
 
 Схема екранів проєкту:
 
+<img src="https://github.com/KalashnikovVolodymyr/flutter_laba_project/blob/777eb49eac3adb1a5e1d94fabf68d93a8134c553/Project_Scheme.drawio.png" alt="Файл зі схемою...">
